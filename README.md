@@ -7,7 +7,7 @@ I'm Chris! I'm a Full Stack Web Developer currently finishing up Lambda School.
 ● I love Java!
 
 
-[![Chris's github stats](https://github-readme-stats.vercel.app/api?username=Cking351&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+[![Chris's github stats](https://github-readme-stats.vercel.app/api?username=Cking351&hide=stars&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
