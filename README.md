@@ -2,8 +2,8 @@
 I'm Chris! I'm a Full Stack Web Developer currently finishing up Lambda School.
 
 ### About Me
-● I like solving problems and figuiring out how things work <br />
-● I enjoy learning about backend architecture and keeping things secure <br />
+● I like figuring things out and solving problems <br />
+● I enjoy learning about backend architecture and security <br />
 ● I love Java!
 
 
