@@ -2,7 +2,7 @@
 I'm a Full Stack Software Developer currently finishing up Lambda School.<br />
 
 ### About Me
-● I like tinkering with things and troubleshooting <br />
+● I like tinkering with things and figuring out how they work <br />
 ● I'm fascinated with backend architecture and security <br />
 ● I love coding with Java!
 <br />
