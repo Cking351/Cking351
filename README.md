@@ -1,10 +1,14 @@
-### Hi there 👋
-I'm Chris! I'm a Full Stack Web Developer currently finishing up Lambda School.
+### Hi there i'm Chris👋
+I'm a Full Stack Software Developer currently finishing up Lambda School.<br />
 
 ### About Me
-● I like figuring things out and solving problems <br />
-● I enjoy learning about backend architecture and security <br />
-● I love Java!
+● I like tinkering with things and troubleshooting <br />
+● I'm fascinated with backend architecture and security <br />
+● I love coding with Java!
+<br />
+<br />
+My skills include:<br />
+React | Java | Spring Boot | JavaScript | Redux | CSS | HTML
 
 
 [![Chris's github stats](https://github-readme-stats.vercel.app/api?username=Cking351&hide=stars&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
