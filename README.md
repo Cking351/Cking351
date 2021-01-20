@@ -1,5 +1,6 @@
-### Hi there i'm Chris👋
-I'm a Full Stack Software Developer currently finishing up Lambda School.<br />
+### Hi there I'm Chris👋
+I'm a Software Developer currently looking for new opportunities.<br />
+My passion is learning complex ideas that help people and provide real solutions to every day challenges!<br />
 
 ### About Me
 ● I enjoy tinkering with things and figuring out how they work <br />
