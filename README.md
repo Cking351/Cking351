@@ -1,6 +1,5 @@
 ### Hi there I'm Chris👋
-I'm a Software Developer currently looking for new opportunities.<br />
-My passion is learning complex ideas that help people and provide real solutions to every day challenges!<br />
+I'm a Software Developer who is always trying to learn something new, and figure out complex problems!<br />
 
 ### About Me
 ● I enjoy tinkering with things and figuring out how they work <br />
