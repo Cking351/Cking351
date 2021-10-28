@@ -2,15 +2,13 @@
 I'm a Software Developer who loves to learn new things!<br />
 
 ### About Me
-● I love to break things and figure out they work while putting it back together<br />
+● I love breaking things to find out how they work :)<br />
 ● I'm really interested in application security and backend architecture <br />
 ● I'm currently working as an Infrastructure Engineer for a large enterprise
 <br />
 <br />
 My skills include:<br />
-Go | Python | Java | Spring Boot | JavaScript | React | Redux | Kubernetes | OpenShift
-
-🌱 I’m currently studying for the Network+ and Security+ certification
+Go | Python | Flask | Java | Spring Boot | JavaScript | Node.js | React | Redux | Kubernetes | OpenShift | Logstash | Jenkins
 
 
 [![Chris's github stats](https://github-readme-stats.vercel.app/api?username=Cking351&hide=stars&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
