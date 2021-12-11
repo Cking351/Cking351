@@ -4,7 +4,7 @@ I'm a Software Developer who loves to learn new things!<br />
 ### About Me
 ● I love breaking things to find out how they work :)<br />
 ● I'm really interested in application security and backend architecture <br />
-● I'm currently working as an Infrastructure Engineer for a large enterprise
+● I'm currently working as an DevOps Engineer for a large enterprise
 <br />
 <br />
 My skills include:<br />
