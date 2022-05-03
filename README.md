@@ -2,7 +2,7 @@
 ### About Me
 ● I love breaking things and putting them back together to find out how they work :)<br />
 ● I'm interested in application security and backend architecture <br />
-● I'm currently a Cloud Security Engineer
+● I'm currently a Security Engineer for UnitedHealth Group
 <br />
 <br />
 My skills include:<br />
