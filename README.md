@@ -1,10 +1,8 @@
-### Hi there I'm Chris👋
-I'm a Software Developer who loves to learn new things!<br />
-
+### Hi there I'm Chris 👋
 ### About Me
-● I love breaking things to find out how they work :)<br />
-● I'm really interested in application security and backend architecture <br />
-● I'm currently a Cloud Security Engineer for a large enterprise
+● I love breaking things and putting them back together to find out how they work :)<br />
+● I'm interested in application security and backend architecture <br />
+● I'm currently a Cloud Security Engineer
 <br />
 <br />
 My skills include:<br />
