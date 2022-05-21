@@ -1,12 +1,10 @@
 ### Hi there I'm Chris 👋
-### About Me
-● I love breaking things and putting them back together to find out how they work :)<br />
-● I'm interested in application security and backend architecture <br />
-● I'm currently a Security Engineer for UnitedHealth Group
+● I love taking things apart and figuring out they work :)<br />
+● I'm currently a Info Security Engineer specializing in Vulnerability Management and Cloud Workload Protection across Azure, AWS, Google Cloud and on-prem environments
 <br />
 <br />
 My skills include:<br />
-Go | Python | Java | Spring Boot | JavaScript | Node.js | React | Redux | Kubernetes | OpenShift | Logstash | Jenkins
+Go | Python | Java | JavaScript | Node.JS | React | Redux | Kubernetes | OpenShift | Logstash | Jenkins
 
 
 [![Chris's github stats](https://github-readme-stats.vercel.app/api?username=Cking351&hide=stars&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
