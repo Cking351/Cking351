@@ -1,10 +1,10 @@
 ### Hi there I'm Chris 👋
 ● I love taking things apart and figuring out they work :)<br />
-● I'm currently a Security Engineer specializing in Vulnerability Management and Cloud Workload Protection across Azure, AWS, Google Cloud and on-prem environments
+● I'm currently a Security Engineer specializing in Vulnerability Management and Cloud Workload Protection across Azure, AWS and Google Cloud
 <br />
 <br />
 My skills include:<br />
-Go | Python | Java | JavaScript | Node.JS | React | Redux | Kubernetes | OpenShift | Logstash | Jenkins
+Go | Python | Java | JavaScript | Node.JS | React | Redux | Kubernetes | OpenShift | Logstash | Jenkins | Prisma Cloud
 
 
 [![Chris's github stats](https://github-readme-stats.vercel.app/api?username=Cking351&hide=stars&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
