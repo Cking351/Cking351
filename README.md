@@ -1,5 +1,5 @@
 ### Hi there I'm Chris 👋
-● I love taking things apart and figuring out they work :)<br />
+● I love taking things apart and figuring out how they work :)<br />
 ● I'm currently a Security Engineer specializing in Vulnerability Management and Cloud Workload Protection across Azure, AWS and Google Cloud
 <br />
 <br />
