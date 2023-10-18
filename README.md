@@ -7,8 +7,6 @@ My skills include:<br />
 Go | Python | Java | JavaScript | Node.JS | React | Redux
 
 
-[![Chris's github stats](https://github-readme-stats.vercel.app/api?username=Cking351&hide=stars&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cking351&hide=smalltalk&theme=omni&layout=compact&hide_border=true)
 
 
