@@ -1,6 +1,6 @@
 ### Hi there I'm Chris 👋
 ● I love taking things apart and figuring out how they work :)<br />
-● I'm currently a Security Engineer helping to support vulnerability management across the public cloud.
+● I'm currently a Security Engineer focusing on securing running workloads in the cloud 
 <br />
 <br />
 My skills include:<br />
