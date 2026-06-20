@@ -1,10 +1,10 @@
 ### Hi there I'm Chris 👋
 ● I love taking things apart and figuring out how they work :)<br />
-● I'm currently a Security Engineer focusing on securing running workloads in the cloud 
+● I'm currently a Sr Cloud Security Engineer focusing on securing workloads in the cloud 
 <br />
 <br />
 My skills include:<br />
-Go | Python | Java | JavaScript | Node.JS | React | Redux
+Go | Python | Java | JavaScript | Node.JS | React
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cking351&hide=smalltalk&theme=omni&layout=compact&hide_border=true)
